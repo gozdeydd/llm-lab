@@ -60,6 +60,10 @@ try:
             print("History cleared.\n")
             continue
 
+        if user_input == "/help":
+            print("Commands: /help, /reset, exit\n")
+            continue
+
         messages.append({"role": "user", "content": user_input})
 
         print("Bot: ", end="", flush=True)
