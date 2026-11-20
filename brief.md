@@ -1,0 +1,3 @@
+- `T1` in `gold-repo` (branch: `feature/t1-null-fix`) is waiting for validation (stage: validating).
+- `T2` in `shared-repo` (branch: `feature/t2-silver-col`) is waiting for validation (stage: validating).
+- `T4` in `gold-repo` (branch: `feature/t4`) is in the coding stage.
